@@ -1,0 +1,15 @@
+D:\Raj.netlab\lab\lab2\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+D:\Raj.netlab\lab\lab2\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raj.netlab\lab\lab2\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+D:\Raj.netlab\lab\lab2\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+D:\Raj.netlab\lab\lab2\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+D:\Raj.netlab\lab\lab2\bin\Debug\net6.0\lab3.exe
+D:\Raj.netlab\lab\lab2\bin\Debug\net6.0\lab3.deps.json
+D:\Raj.netlab\lab\lab2\bin\Debug\net6.0\lab3.runtimeconfig.json
+D:\Raj.netlab\lab\lab2\bin\Debug\net6.0\lab3.dll
+D:\Raj.netlab\lab\lab2\bin\Debug\net6.0\lab3.pdb
+D:\Raj.netlab\lab\lab2\obj\Debug\net6.0\lab3.dll
+D:\Raj.netlab\lab\lab2\obj\Debug\net6.0\refint\lab3.dll
+D:\Raj.netlab\lab\lab2\obj\Debug\net6.0\lab3.pdb
+D:\Raj.netlab\lab\lab2\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+D:\Raj.netlab\lab\lab2\obj\Debug\net6.0\ref\lab3.dll

@@ -1,0 +1,15 @@
+D:\Raj.netlab\lab\lab9\bin\Debug\net6.0\lab9.exe
+D:\Raj.netlab\lab\lab9\bin\Debug\net6.0\lab9.deps.json
+D:\Raj.netlab\lab\lab9\bin\Debug\net6.0\lab9.runtimeconfig.json
+D:\Raj.netlab\lab\lab9\bin\Debug\net6.0\lab9.dll
+D:\Raj.netlab\lab\lab9\bin\Debug\net6.0\lab9.pdb
+D:\Raj.netlab\lab\lab9\obj\Debug\net6.0\lab9.csproj.AssemblyReference.cache
+D:\Raj.netlab\lab\lab9\obj\Debug\net6.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raj.netlab\lab\lab9\obj\Debug\net6.0\lab9.AssemblyInfoInputs.cache
+D:\Raj.netlab\lab\lab9\obj\Debug\net6.0\lab9.AssemblyInfo.cs
+D:\Raj.netlab\lab\lab9\obj\Debug\net6.0\lab9.csproj.CoreCompileInputs.cache
+D:\Raj.netlab\lab\lab9\obj\Debug\net6.0\lab9.dll
+D:\Raj.netlab\lab\lab9\obj\Debug\net6.0\refint\lab9.dll
+D:\Raj.netlab\lab\lab9\obj\Debug\net6.0\lab9.pdb
+D:\Raj.netlab\lab\lab9\obj\Debug\net6.0\lab9.genruntimeconfig.cache
+D:\Raj.netlab\lab\lab9\obj\Debug\net6.0\ref\lab9.dll
